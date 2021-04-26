@@ -9,7 +9,7 @@ A recipe app, consisting of an API (including validation and searching) built wi
 
 ## Installation Steps (if applicable)
 
-1. Clone repo: `git clone git@github.com:sitepoint-editors/recipe-book.git`
+1. Clone repo: `https://github.com/namnguyen0802/nestjs-mongo.git`
 2. Change into root directory: `cd recipe-book`
 3. Ensure theat MongoDB is running
 4. Run `npm install`
